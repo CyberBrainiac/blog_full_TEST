@@ -1,0 +1,21 @@
+.errorPage {
+  &__container {
+    display: flex;
+    justify-content: center;
+  }
+
+  &__message {
+    margin-top: 50vh;
+    font-size: 40px;
+    transform: translateY(-100%);
+
+    &_code {
+      font-size: 70px;
+      font-weight: 800;
+    }
+
+    &_text {
+      color: #ff0000;
+    }
+  }
+}
