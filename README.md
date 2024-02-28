@@ -1,2 +1,2 @@
-# Blog_Kharkiv-IT-Cluster
+# TEST Blog_full
 NodeJs, React, MySQL
